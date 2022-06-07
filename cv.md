@@ -37,4 +37,4 @@ In early 2022 without any experience in programming started to learn HTML and CS
     * Various HTML5&CSS3 tutorials
 ***
 ### English
-* CEFR A2+ (according test.str.by)
+* CEFR A2+ (according to test.str.by)
