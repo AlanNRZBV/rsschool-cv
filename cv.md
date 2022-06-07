@@ -33,7 +33,7 @@ In early 2022 without any experience in programming started to learn HTML and CS
 ### Education
 * **Kyrgyz-Russian Slavic University**
     * Design of Architectural Environment / Bachelor degree
-* Youtube
+* **Youtube**
     * Various HTML5&CSS3 tutorials
 ***
 ### English
