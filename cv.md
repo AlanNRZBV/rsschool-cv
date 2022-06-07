@@ -1,12 +1,13 @@
 ## Noruzbaev Alan
-![profile-picture](profile-picture.png "Profile picture")
+***
+![profilePicture](img/profile-picture.png "Profile Picture")
 ***
 ### Contact
 * **Location:** Bishkek, Kyrgyzstan 
 * **Phone:** +996 555 290 393 
 * **Telegram:** @alancgi 
 * **E-Mail:** @alan.noruzbaev@gmail.com
-* **GitHub:** [AlanNRZBV](https://github.com/AlanNRZBV)
+* **GitHub:** [AlanNRZBV](https://github.com/AlanNRZBV "GitHub link")
 ***
 ### About me
 I'm 29 years old. Seven years expirience in interior design and     architecture industry. Deep understanding of all design studio process, including management. Extensive expirience in large projects. Middle archiviz artist.
