@@ -1,4 +1,5 @@
 ## Noruzbaev Alan
+![profile-picture](profile-picture.png "Profile picture")
 ***
 ### Contact
 * **Location:** Bishkek, Kyrgyzstan 
