@@ -24,15 +24,16 @@ In early 2022 without any experience in programming started to learn HTML and CS
 * VSCode
 ***
 ### Code example 
-
-
+*Have no code to show yet*
 ***
 ### Expirience
-
-
+*No relevant work expirience*
 ***
 ### Education
-
-
+* **Kyrgyz-Russian Slavic University**
+    * Design of Architectural Environment / Bachelor degree
+* Youtube
+    * Various HTML5&CSS3 tutorials
 ***
 ### English
+* CEFR A2+ (according test.str.by)
