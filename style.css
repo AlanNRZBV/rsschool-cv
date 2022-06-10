@@ -1,0 +1,49 @@
+/* *MAIN */
+.body {
+    font-family: 'Hind', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+/* *CONTAINER */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 120px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid #333;
+}
+/* *HEADER */
+.header {
+    border: 1px solid #333;
+    font-family: 'Hind', sans-serif;
+}
+.nav {
+    justify-content: space-between;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+
+}
+.nameholder {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+/* *MAIN */
+
+
+
+
+
+
+
+/* *Footer */
