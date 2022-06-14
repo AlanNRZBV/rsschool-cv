@@ -1,8 +1,19 @@
+/* !VARS */
+:root {
+    --main-grey-color: #e6e5e5;
+    --main-text-color: #333;   
+}
+
+
+
+
+
 /* *MAIN */
 .body {
     font-family: 'Hind', sans-serif;
     font-family: 'Montserrat', sans-serif;
 }
+
 /* *CONTAINER */
 .container {
     width: 100%;
@@ -12,33 +23,44 @@
     box-sizing: border-box;
     border: 1px solid #333;
 }
+
 /* *HEADER */
 .header {
-    border: 1px solid #333;
+    /* border: 1px solid #333; */
     font-family: 'Hind', sans-serif;
 }
+
 .nav {
+    display: flex;
     justify-content: space-between;
+}
+
+.nav-link {
+    text-decoration: none;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: bold;
-    color: #333;
-
+    color: var(--main-text-color);
+    padding: 5px 10px;
 }
+.nav-link:hover   {
+    color: var(--main-grey-color);
+    background-color: var(--main-text-color);
+    transition: 0.25s linear;
+}
+
 .nameholder {
+    margin: 42px 0;
+    padding: 0;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 80px;
+    font-size: 7.55vw;
     text-align: center;
     text-transform: uppercase;
 
 }
-
-
-
-
-
 /* *MAIN */
+/* CONTACTS */
+
 
 
 
