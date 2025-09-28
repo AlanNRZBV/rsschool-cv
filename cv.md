@@ -19,7 +19,31 @@ Two years ago, I decided to change my profession and chose javascript as my firs
 * MongoDB
 * TypeScript
 # Code Example
+```
+if (user && (await bcrypt.compare(password, user.password))) {
+      const token = jwt.sign(
+        {
+          user: {
+            email: user.email,
+            firstName: user.firstName,
+            lastName: user.lastName,
+            middleName: user.middleName,
+            role: user.role,
+            _id: user._id,
+          },
+        },
+        process.env.DEV_SECRET_ACCESS_TOKEN!,
+        { expiresIn: "1d" },
+      );
+
+```
 # Work Experience
+* **Baker Tilly Bishkek** - **Front-end Developer** - **Fixed-term contract, 3 months**
 # Education
+* **2016** - **Bachelor's degree** - B.N. Yeltsin KRSU** - Department of Architecture and Design, Environmental Design
 ## Courses
+* **2024**: Attractor School - (React + NodeJs) - TOTAL SCORE - 95%
+* **2022**: Udemy - Build Responsive Real - World Websites with HTML and CSS
+* **2022**: Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and more
 # English Language
+* B2
