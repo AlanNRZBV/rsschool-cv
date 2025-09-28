@@ -19,7 +19,9 @@ Two years ago, I decided to change my profession and chose javascript as my firs
 * MongoDB
 * TypeScript
 # Code Example
+
 ```
+
 if (user && (await bcrypt.compare(password, user.password))) {
       const token = jwt.sign(
         {
@@ -37,6 +39,7 @@ if (user && (await bcrypt.compare(password, user.password))) {
       );
 
 ```
+
 # Work Experience
 * **Baker Tilly Bishkek** - **Front-end Developer** - **Fixed-term contract, 3 months**
 # Education
